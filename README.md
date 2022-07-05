@@ -52,6 +52,8 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649). The purpose of this post is not to serve as a full introduction to zk-SNARKs;the post digs deeper into the machinery behind the technology, and tries to explain as well as possible the steps from computation to obtain a quadratic arithmetic programs. 
 
+- [Explaining Quadratic Arithmetic Programs](https://xord.com/research/explaining-quadratic-arithmetic-programs/). Explains more easy theQuadratic Arithmetic Programs: from Zero to Hero by Vitalik Buterin
+
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
 
 - [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6). A series of articles explaining how the technology behind zk-SNARKs work by Vitalik Buterin
