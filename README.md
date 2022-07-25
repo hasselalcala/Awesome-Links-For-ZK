@@ -60,6 +60,15 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/) This article explain How zk-SNARKs are constructed in Zcash
 
+- [Trusted setud in zkSNARK](https://crypto.stackexchange.com/questions/89449/why-it-is-said-that-zk-snarks-need-a-trusted-setup-to-work)
+
+- [setup ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)
+
+- [Know The Difference Between Zk-SNARKS Vs. Zk-STARKS](https://www.blockchain-council.org/blockchain/zk-snarks-vs-zk-starks/)
+
+- [Comparing Privacy Technologies: Zk-SNARKs Vs Zk-STARKs Vs Snapps And More](https://blog.horizen.io/comparing-privacy-technologies/)
+
+- [Zksnarks Vs Zkstarks – Key Differences](https://101blockchains.com/zksnarks-vs-zkstarks/)
 
 - Plonk
   - [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
