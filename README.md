@@ -1,8 +1,28 @@
 # Awesome-Links-For-ZK
 
-I want to share the resources that I used to learn and prepare the challenge of #DaysOfZeroKnowledge
+I want to share the resources that I used to learn and prepare the challenge of #DaysOfZeroKnowledge:
+
+- [Foundations of Probabilistic Proofs](https://people.eecs.berkeley.edu/~alexch/classes/CS294-F2020.html)
+
+- [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+
+-[A Primer on Cryptographic Proof Systems](https://jumpcrypto.com/a-primer-on-proof-systems/)
+
+- [Mathematics behind Ethereum & Bitcoin Cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
 
 - ['Introduction to Zero Knowledge Proofs' - Elena Nadolinski](https://www.youtube.com/watch?v=BT88s7_VtC8) [[slides](https://docs.google.com/presentation/d/10JmV3-VxPtdHlrX4MSu-ERH82IonZeLrDdLZ1lJ6Wlc/mobilepresent?slide=id.gd3aa85d23a_0_11)]
+
+- [Navigating Zero Knowledge](https://medium.com/amber-group/navigating-zero-knowledge-e944b21af71c)
+
+-[Zero-Knowledge-Proof Mining](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)
+
+- [Zero-Knowledge Proofs: A General Understanding](https://medium.com/xord/zero-knowledge-proofs-a-general-understanding-xord-67928f3eea7f)
+
+- [A Survey of Noninteractive Zero Knowledge Proof System and Its Applications](https://www.hindawi.com/journals/tswj/2014/560484/)
+
+- [Introducing circom 2.0](https://drive.google.com/file/d/1xtCJpXryI53Xo1vCbhh8IieW37gLzK9b/view)
+
+-[Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 
 - [Dystopia Labs | (Part 1/3) Demystifying Zero Knowledge Proofs: How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=_6TqUNVLChc) [[slides](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.g443fe0d9f5_0_104)]
 
@@ -34,9 +54,16 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [How to create a Zero Knowledge DApp: From zero to production](https://vivianblog.hashnode.dev/how-to-create-a-zero-knowledge-dapp-from-zero-to-production#heading-zero-knowledge-structure). This is a step-by-step guide on how to build a Zero Knowledge (zk) Decentralized Application (DApp) from zero to production. The goal is to explain the flow of a zk dapp and deploy it so that users can use it. 
 
+- [Implementing Zero Knowledge Lottery’s Circom circuits PART 1 / 2](https://killari.medium.com/implementing-zero-knowledge-lotterys-circom-circuits-part-1-2-16910b3732a2)
+
+- [Walkthrough of an Interactive Zero-Knowledge Proof for Sudoku Puzzle](https://medium.com/coinmonks/walkthrough-of-an-interactive-zero-knowledge-proof-for-sudoku-puzzle-ac563588f1a8)
+
+- [An approximate introduction to how zk-SNARKs are possible](https://vitalik.ca/general/2021/01/26/snarks.html) by Vitalik Buterin
 - [Some ways to use ZK-SNARKs for privacy](https://vitalik.ca/general/2022/06/15/using_snarks.html). Vitalik explain some examples about how to use zk-SNARK for privacy 
 
 - [The Evolution of Zero-Knowledge Proofs in Web3](https://medium.com/manta-network/the-evolution-of-zero-knowledge-proofs-in-web3-b92a68c41c04). 
+
+- [A Basic Primer to How Zero Knowledge Proofs and zkSNARKs Work](https://medium.com/@kamoussa/a-basic-primer-to-how-zero-knowledge-proofs-and-zksnarks-work-21d1b667be23)
 
 - [zk-SNARKs Explained with Bellman](https://hongchao.me/zksnark/). Steps to apply zk-SNARK from computation to QAP.
 
@@ -62,7 +89,7 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Trusted setud in zkSNARK](https://crypto.stackexchange.com/questions/89449/why-it-is-said-that-zk-snarks-need-a-trusted-setup-to-work)
 
-- [setup ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)
+- [Setup ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)
 
 - [Know The Difference Between Zk-SNARKS Vs. Zk-STARKS](https://www.blockchain-council.org/blockchain/zk-snarks-vs-zk-starks/)
 
@@ -70,10 +97,25 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Zksnarks Vs Zkstarks – Key Differences](https://101blockchains.com/zksnarks-vs-zkstarks/)
 
+- STARK
+  - [STARKs, StarkEx, and StarkNet](https://medium.com/starkware/starks-starkex-and-starknet-9a426680745a)
+  - [ZK-STARKs — Create Verifiable Trust, even against Quantum Computers](https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d)
+  - [Anatomy of STARK](https://aszepieniec.github.io/stark-anatomy/)
+  - [STARK week](https://hackmd.io/@grjte/stark-week)
+  
 - Plonk
   - [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)
   - [L2 — Deep into PLONK Aggregation circuit](https://starli.medium.com/l2-deep-into-plonk-aggregation-circuit-d9928ccd0749). 
   - [L2 — Deep Dive into zkSync circuit preprocessing](https://starli.medium.com/l2-deep-dive-into-zksync-circuit-preprocessing-1f365a9d15d6)
+
+- Halo2
+  - [Explaining halo2](https://electriccoin.co/blog/explaining-halo-2/)
+  - [Zero Knowledge Proof — A Guide to Halo2 Source Code](https://starli.medium.com/zero-knowledge-proof-a-guide-to-halo2-source-code-9be0cf792f18)
+
+- ZKEVM
+  - [Zero Knowledge Proof — Deep into zkEVM source code (EVM Circuit)](https://starli.medium.com/zero-knowledge-proof-deep-into-zkevm-source-code-evm-circuit-21d0a47f63aa)
+  
+  - [Foresight Ventures: zk, zkVM, zkEVM and their Future](https://foresightventures.medium.com/foresight-ventures-zk-zkvm-zkevm-and-their-future-6fb4b8b527d8)
 
 Other compilations:
 
