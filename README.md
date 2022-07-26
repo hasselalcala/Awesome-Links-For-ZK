@@ -123,5 +123,6 @@ Other compilations:
   - [Extra resources](https://0xst.notion.site/ZK-Research-94ba836c3b2a4e2491a871364ee5b13b). A compilation of resources useful to learn ZK.
   - [Learning resources by 0xPARC](https://learn.0xparc.org). The learning resources here at learn.0xparc.org were born out of the first cohort of the Applied ZK Learning Group by 0xPARC in December 2021.
   - [Awesome zero knowledge proofs (zkp) by matter labs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+  - [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
   
   
