@@ -125,4 +125,5 @@ Other compilations:
   - [Awesome zero knowledge proofs (zkp) by matter labs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
   - [Awesome zkEVM](https://github.com/LuozhuZhang/awesome-zkevm)
   - [ZK Whiteboard Sessions](https://zkhack.dev/whiteboard/)
+  - [SHIELD - A development framework for ZK based languages](https://xord.notion.site/SHIELD-5306223ca4f745d19f54b9a5f4004cd6)
   
