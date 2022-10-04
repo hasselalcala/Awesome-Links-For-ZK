@@ -79,6 +79,10 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649). The purpose of this post is not to serve as a full introduction to zk-SNARKs;the post digs deeper into the machinery behind the technology, and tries to explain as well as possible the steps from computation to obtain a quadratic arithmetic programs. 
 
+- [R1CS](https://tlu.tarilabs.com/cryptography/rank-1#rank-1-constraint-systems)
+
+- [R1CS](https://www.zeroknowledgeblog.com/index.php/the-pinocchio-protocol/r1cs)
+
 - [Explaining Quadratic Arithmetic Programs](https://xord.com/research/explaining-quadratic-arithmetic-programs/). Explains more easy theQuadratic Arithmetic Programs: from Zero to Hero by Vitalik Buterin
 
 - [zkSNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/)
