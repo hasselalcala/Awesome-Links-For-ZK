@@ -6,7 +6,7 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
--[A Primer on Cryptographic Proof Systems](https://jumpcrypto.com/a-primer-on-proof-systems/)
+- [A Primer on Cryptographic Proof Systems](https://jumpcrypto.com/a-primer-on-proof-systems/)
 
 - [Mathematics behind Ethereum & Bitcoin Cryptography](https://betterprogramming.pub/understanding-ethereum-cryptography-3ef7429eddce)
 
@@ -14,7 +14,7 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Navigating Zero Knowledge](https://medium.com/amber-group/navigating-zero-knowledge-e944b21af71c)
 
--[Zero-Knowledge-Proof Mining](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)
+- [Zero-Knowledge-Proof Mining](https://medium.com/6block/zero-knowledge-proof-mining-9bc12fbbbd55)
 
 - [Zero-Knowledge Proofs: A General Understanding](https://medium.com/xord/zero-knowledge-proofs-a-general-understanding-xord-67928f3eea7f)
 
@@ -22,7 +22,7 @@ I want to share the resources that I used to learn and prepare the challenge of 
 
 - [Introducing circom 2.0](https://drive.google.com/file/d/1xtCJpXryI53Xo1vCbhh8IieW37gLzK9b/view)
 
--[Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
+- [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 
 - [Dystopia Labs | (Part 1/3) Demystifying Zero Knowledge Proofs: How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=_6TqUNVLChc) [[slides](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.g443fe0d9f5_0_104)]
 
